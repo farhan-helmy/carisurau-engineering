@@ -52,7 +52,7 @@ export function Hero() {
                 Carisurau Engineering Blog
               </p>
               <p className="mt-3 text-2xl tracking-tight text-slate-400">
-               Coming soon..
+              
               </p>
              
             </div>

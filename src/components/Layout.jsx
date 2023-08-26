@@ -17,6 +17,7 @@ export const navigation = [
     title: 'Articles',
     links: [
       { title: 'Assalamualaikum', href: '/' },
+      { title: 'Carisurau Architecture - part 1', href: '/articles/carisurau-architecture-part1' },
     ],
   },
   // {
